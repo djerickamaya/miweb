@@ -1,8 +1,0 @@
-chanchito feliz
-<<<<<<< HEAD
-chanchito  feliz
-chanchito feliz
-=======
-chanchito feliz 
-chanchito feliz rama b
->>>>>>> ramab
